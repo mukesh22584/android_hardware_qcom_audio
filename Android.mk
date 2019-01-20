@@ -23,4 +23,3 @@ include $(MY_LOCAL_PATH)/audiod/Android.mk
 endif
 
 endif
-endif
